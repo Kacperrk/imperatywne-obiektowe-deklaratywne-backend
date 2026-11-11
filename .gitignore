@@ -1,0 +1,10 @@
+# === Maven ===
+target/
+
+# === IDE ===
+.idea/
+.vscode/
+
+# === Environment ===
+.direnv/
+.env
